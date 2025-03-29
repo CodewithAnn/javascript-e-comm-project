@@ -9,10 +9,12 @@
     "start:dev": "nodemon server.js"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.2",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mongoose": "^8.13.1",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
